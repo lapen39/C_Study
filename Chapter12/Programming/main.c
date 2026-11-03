@@ -56,9 +56,6 @@ int main(){
         printf("%c: %d\n", ch, check_freq(buf, ch));
     }
 
-    // 6번 문제
-    
-
     return 0;
 }
 
